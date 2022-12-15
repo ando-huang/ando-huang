@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ando-huang
-- 👀 I’m interested in building developer tools and systems programming
-- 🌱 I’m currently learning compilers through Stanford's EdX course, building a compiler for COOL
+- 👀 I’m interested in building developer tools and learning about PL Theory
+- 🌱 I’m currently learning compilers through Stanford's EdX course, and studying Types and PL by Pierce
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - linkedin.com/in/ando-huang
 
