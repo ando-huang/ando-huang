@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ando-huang
-- 👀 I’m interested in building developer tools and learning about PL Theory
-- 🌱 I’m currently learning compilers through Stanford's EdX course, and studying Types and PL by Pierce
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in systems engineering
+- 🌱 I’m currently learning AWS, Interpreters, and AI
+- 💞️ I’m looking to collaborate on projects in EdTech
 - 📫 How to reach me - linkedin.com/in/ando-huang
 
 <!---
