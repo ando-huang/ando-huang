@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ando-huang
-- 👀 I’m interested in systems engineering
-- 🌱 I’m currently learning AWS, Interpreters, and AI
-- 💞️ I’m looking to collaborate on projects in EdTech
+- 👋 Hi, I’m Andrew Huang
+- 👀 I’m interested in High Performance Computing, Programming Languages, and Full-Stack Engineering
+- 🌱 I’m currently learning Cloud Security, Interpreters, and Rust, and starting a MSCS at USC
+- 💞️ I’m looking to collaborate on projects in Climate, Education, or Health
 - 📫 How to reach me - linkedin.com/in/ando-huang
 
 <!---
